@@ -1,0 +1,16 @@
+.A{
+    background-color: rgb(255, 0, 0);
+    width: 50px;
+    height: 50px;
+    border: 2px solid rgb(0, 158, 0);
+    margin-top: 100px;
+}
+
+
+.B{
+    background-color: rgb(0, 0, 0);
+    height: 50vh;
+    width: 50%;
+    border: 10px dashed rgb(255, 0, 0);
+    margin: 100px 0 0 100px;
+}
